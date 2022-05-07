@@ -6,7 +6,7 @@
 
 ### 2. Mediante el comando *docker run -it ubuntu:18.04 /bin/bash* crearemos un contenedor de ubuntu:18.04 y tener acceso a un shell en él
 
-[![imagen-2022-05-07-233144351.png](https://i.postimg.cc/v8PKmDBB/imagen-2022-05-07-233144351.png)](https://postimg.cc/xqz5xfLD)
+[![Captura-de-pantalla-2022-05-07-233123.png](https://i.postimg.cc/6pYS80tD/Captura-de-pantalla-2022-05-07-233123.png)](https://postimg.cc/XrBxh9Z8)
 
 ## Ejemplo 2
 ### Utilizaremos el comando *docker run ubuntu:18.04 ls /* para crear el contenedor y posteriormente que el contenedor pase a estar parado
